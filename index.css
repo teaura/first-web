@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(236, 236, 114); 
+ 
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+button {
+    height: 50px; 
+    width: 70;
+    font-weight: bold;
+    border-color: black;
+    color: coral;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 565px;
+}
+
+
+img {
+    width: 300px;
+    height: 400;
+}
+
+.a21 {
+    border: 5px solid black; 
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 500px;
+}
+nav {
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    padding: 30px;
+}
+
+nav a{
+    color: coral;
+    margin-right: 30px;
+    padding: 20px;
+}
+
+.first {
+    color: black;
+}
+
+.second {
+    color: black;
+}
+
+.thrid {
+    color: black;
+}
+
+.pa {
+    text-align: center;
+}
+
